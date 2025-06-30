@@ -27,6 +27,6 @@ You can use the SMS Spam Collection Dataset from UCI/Kaggle.
 
 ## Built With
 Python
-Pandas, Scikit-learn, NLTK
+Pandas, NLTK
 Streamlit
 Jupyter Notebook / PyCharm
